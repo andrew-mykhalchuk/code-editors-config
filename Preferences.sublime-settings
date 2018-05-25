@@ -1,0 +1,38 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"*/uk/*"
+	],
+	"font_face": "Fira Code Light",
+	"font_options":
+	[
+	],
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": 2,
+	"original_color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"word_wrap": "true"
+}
